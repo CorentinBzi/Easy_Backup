@@ -17,18 +17,20 @@ Next, you need to install the necessary dependencies using pip, Python's package
 
 You can install all these dependencies by using the following command in your terminal:
 
-<sup>pip install tk customtkinter ttkthemes</sup>
+`pip install tk customtkinter ttkthemes`
 
 ## Usage
 To use Easy Backup, first clone this repository by using the following command:
 
-<sup>git clone https://github.com/CorentinBzi/Easy_Backup.git</sup>
+`git clone https://github.com/CorentinBzi/Easy_Backup.git`
+
 Then change into the project directory:
 
-<sup>cd easy_backup</sup>
+`cd easy_backup`
+
 Then, you can run the application by using the following command:
 
-<sup>python Easy_Backup.py</sup>
+`python Easy_Backup.py`
 
 ### Features
 Select folders to backup: You can select the folder or folders you want to backup by clicking the "Select" button. Alternatively, you can use the "Select by default" button to automatically select the user's "Documents" folder.
